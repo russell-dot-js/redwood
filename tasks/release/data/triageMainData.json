@@ -1,0 +1,14 @@
+{
+  "18074307f157f393125770d183abdeaa0c10f74a": {
+    "message": "fix(deps): update storybook monorepo to v7.0.15 (#8403)",
+    "needsCherryPick": false
+  },
+  "5f03da5f48eac92bf965f43afd032e618b22788d": {
+    "message": "feat(storybook): upgrade to v7 (#8342)",
+    "needsCherryPick": false
+  },
+  "70b7c4dc3ce6f54017d6ed52a2745ffeaa63a710": {
+    "message": "Reserve h for help, and format docs (#8407)",
+    "needsCherryPick": false
+  }
+}
